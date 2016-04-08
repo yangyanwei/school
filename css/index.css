@@ -1,0 +1,139 @@
+body{
+    margin:0;
+    padding: 0;
+    font-size: 12px;
+    font-family: "STXihei";
+}
+ul,li,p,h1,h2,h3,h4,h5,h6{
+    margin: 0;padding: 0;
+    list-style: none;
+    font-weight:normal;
+}
+a{
+    text-decoration: none;
+}
+*{
+    box-sizing:border-box;
+}
+.clear{
+    clear: both;
+}
+
+
+.sc-find{
+    width:100%;
+    /*height:40px;*/
+    background-color: #e2e2e2;
+
+}
+.mar{
+    margin: 0 10px;
+}
+.sc-fd{
+    height:92px;
+    width:75%;
+    border-radius: 50px;
+    background-color: #fff;
+    text-align: center;
+    line-height: 92px;
+    display:inline-block;
+    margin:20px 0;
+    float: left;
+}
+.sc-sou {
+    width: 44px;
+    height:44px;
+    display:inline-block;
+    /*margin-right: 5px;*/
+    background:url("../images/sousuo.png") no-repeat center center;
+    background-size: cover;
+    margin-bottom: -10px;
+}
+.sc-suo {
+    height: 92px;
+    font-size: 44px;
+    line-height: 92px;
+    color:#9c9c9c;
+    display:inline-block;
+}
+.screen{
+    width: 25%;
+    height: 92px;
+    float: left;
+}
+.screen-left{
+    margin-left: 20px;
+}
+.screen-con{
+    width: 100%;
+    height: 92px;
+    background: #fff;
+    border-radius: 50px;
+    margin: 20px 0;
+    text-align: center;
+}
+.screen-font{
+    height: 92px;
+    font-size: 44px;
+    line-height: 92px;
+    color:#9c9c9c;
+    display:inline-block;
+}
+.screen-icon{
+    width: 44px;
+    height:44px;
+    display:inline-block;
+    /*margin-right: 5px;*/
+    background:url("../images/icon.png") no-repeat center center;
+    background-size: cover;
+    margin-bottom: -10px;
+    margin-left: 10px;
+}
+
+
+
+/*列表*/
+.sc-con{
+    margin-top: 30px;
+}
+.m-list{
+    padding: 0 13px;
+}
+.m-list ul{
+    margin-left: -8px;
+}
+.m-list .hot-list{
+    margin-left: 20px;
+}
+.hot-list a{
+    display: inline-block;
+}
+.hot-pic{
+    background-size: 100% 100%;
+
+}
+.ul-hot li{
+    width: 50%;
+    float: left;
+}
+.hot-pic img{
+    display: block;
+    border: none;
+    vertical-align: middle;
+    width: 100%;
+    height: auto;
+    border-radius: 15px;
+}
+.hot-list h3{
+    width:100%;
+    font-size:44px;
+    color:#4E4E4E;
+    margin-top: 30px
+}
+.hot-list h4{
+    width:100%;
+    font-size: 36px;
+    color:#9c9c9c;
+    margin-top: 12px ;
+    margin-bottom: 30px;
+}

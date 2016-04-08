@@ -1,0 +1,99 @@
+body{
+    margin:0;
+    padding: 0;
+    font-family: "STXihei";
+}
+ul,li,p,h1,h2,h3,h4,h5,h6{
+    margin: 0;padding: 0;
+    list-style: none;
+    font-weight:normal;
+}
+.clear{
+    clear: both;
+}
+a{
+    text-decoration: none;
+}
+*{
+    box-sizing:border-box;
+}
+
+.table{
+    width: 100%;
+}
+.mar{
+    margin: 0 20px;
+}
+.menu1{
+    width: 100%;
+    overflow: hidden;
+    overflow-x: scroll;
+}
+.contain{
+    width:4206px;
+    height: 80px;
+    margin-top: 20px;
+}
+.cnv{
+    height:80px;
+    float:left;
+    font-size: 30px;
+    font-family: "STXihei";
+    color:#9c9c9c;
+    text-align: center;
+    line-height: 80px;
+    /*margin: 0 20px;*/
+    padding: 0 20px;
+}
+.contain1{
+    width:1284px;
+    height: 80px;
+    margin-top: 20px;
+}
+.contain2{
+    width:2088px;
+    height: 80px;
+    margin-top: 20px;
+}
+.contain3{
+    width:744px;
+    height: 80px;
+    margin-top: 20px;
+}
+.contain4{
+    width:1454px;
+    height: 80px;
+    margin-top: 20px;
+}
+.contain5{
+    width:7222px;
+    height: 80px;
+    margin-top: 20px;
+}
+
+.btn{
+    width: 100%;
+    height: auto;
+    text-align: center;
+    margin-top: 50px;
+    position: relative;
+}
+.btn-res{
+    display: inline-block;
+    width: 60%;
+    height: 92px;
+    font-size: 48px;
+    text-align: center;line-height: 92px;
+    color: #4E4E4E;
+    background: #fed141;
+    border-radius: 30px;
+}
+.remove{
+    width: 60px;
+    height: 60px;
+    background: url("../images/shanchu.png")no-repeat center ;
+    background-size: cover;
+    position: absolute;
+    left: 45px;top: 15px;
+
+}
