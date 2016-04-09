@@ -27,7 +27,7 @@ a{
 
 }
 .mar{
-    margin: 0 10px;
+    margin: 0 30px;
 }
 .sc-fd{
     height:92px;
@@ -62,7 +62,7 @@ a{
     float: left;
 }
 .screen-left{
-    margin-left: 20px;
+    margin-left: 30px;
 }
 .screen-con{
     width: 100%;
@@ -97,13 +97,13 @@ a{
     margin-top: 30px;
 }
 .m-list{
-    padding: 0 13px;
+    padding: 0 30px;
 }
 .m-list ul{
-    margin-left: -8px;
+    margin-left: -30px;
 }
 .m-list .hot-list{
-    margin-left: 20px;
+    margin-left: 30px;
 }
 .hot-list a{
     display: inline-block;
