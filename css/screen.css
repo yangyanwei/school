@@ -30,14 +30,14 @@ a{
     overflow-x: scroll;
 }
 .contain{
-    width:4206px;
+    width:5006px;
     height: 80px;
     margin-top: 20px;
 }
 .cnv{
     height:80px;
     float:left;
-    font-size: 30px;
+    font-size: 44px;
     font-family: "STXihei";
     color:#9c9c9c;
     text-align: center;
@@ -46,27 +46,27 @@ a{
     padding: 0 20px;
 }
 .contain1{
-    width:1284px;
+    width:1496px;
     height: 80px;
     margin-top: 20px;
 }
 .contain2{
-    width:2088px;
+    width:2484px;
     height: 80px;
     margin-top: 20px;
 }
 .contain3{
-    width:744px;
+    width:892px;
     height: 80px;
     margin-top: 20px;
 }
 .contain4{
-    width:1454px;
+    width:1766px;
     height: 80px;
     margin-top: 20px;
 }
 .contain5{
-    width:7222px;
+    width:8600px;
     height: 80px;
     margin-top: 20px;
 }
